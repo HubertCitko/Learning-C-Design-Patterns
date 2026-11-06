@@ -1,4 +1,4 @@
-﻿namespace AbstractFactory
+﻿namespace Factory.AbstractFactory
 {
     public class AbstractFactoryPattern
     {

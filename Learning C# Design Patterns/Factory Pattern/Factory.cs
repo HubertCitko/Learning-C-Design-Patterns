@@ -1,4 +1,4 @@
-﻿namespace Factory
+﻿namespace Factory.Factory
 {
     public class FactoryPattern
     {

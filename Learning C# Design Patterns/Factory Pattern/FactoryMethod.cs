@@ -1,13 +1,13 @@
-﻿using static FactoryMethod.FactoryMethodPattern;
+﻿using static Factory.FactoryMethod.FactoryMethodPattern;
 
-
+/*
 new NavigationBar();
 new DropdownMenu();
 new AndroidNavigationBar();
 new AndroidDropdownMenu();
+*/
 
-
-namespace FactoryMethod
+namespace Factory.FactoryMethod
 {
 
     public class FactoryMethodPattern
